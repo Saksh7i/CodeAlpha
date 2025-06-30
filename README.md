@@ -1,3 +1,5 @@
+#program for hangman game
+
 import random
 
 word_list = ["apple", "banana", "orange", "grape", "peach"]
